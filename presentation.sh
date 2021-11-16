@@ -1,21 +1,24 @@
 #!/bin/zsh
 
-PYTHONS="🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍"
+PYTHONS="🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍"
 SLEEP_TIME=2  # seconds
 
 autoload -U colors &> /dev/null
 colors &> /dev/null
 
+clear
 figlet "Welcome to e-caste's GitHub profile!" | lolcat
 echo
 sleep $SLEEP_TIME
 
+clear
 echo $PYTHONS
 figlet "I like Python"
 echo $PYTHONS
 echo
 sleep $SLEEP_TIME
 
+clear
 # $bold_color$bg[green]
 echo "$fg[green]Did you know that Python got its name from Monty Python?${reset_color}"
 sleep $SLEEP_TIME
@@ -26,7 +29,8 @@ echo "$fg[red]Nobody expects the Spanish Inquisition! Especially when programmin
 echo
 sleep $SLEEP_TIME
 
-figlet "Check out my projects below!"
+clear
+figlet "Check out my projects below!" | lolcat -a -d 4
 echo
 sleep $SLEEP_TIME
 
