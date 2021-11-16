@@ -13,8 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-	<br>
-		<img src="term.svg">
-	<br>
-</div>
+![presentation.sh](https://github.com/e-caste/e-caste/raw/master/term.gif)
+
