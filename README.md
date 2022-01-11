@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 
 ![presentation.sh](https://github.com/e-caste/e-caste/raw/master/term.gif)
 
+<div align="center">
+  <h3>
+    <a href="https://github.com/stars/e-caste/lists/university-projects">👉 Check out my university projects here 👈</a>
+  </h3>
+  <hr />
+  <h3>
+    👇 Scroll down for everything else 👇
+  </h3>
+</div>
