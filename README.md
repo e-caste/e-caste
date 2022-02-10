@@ -16,9 +16,24 @@ Here are some ideas to get you started:
 ![presentation.sh](https://github.com/e-caste/e-caste/raw/master/term.gif)
 
 <div align="center">
-  <h3>
-    <a href="https://github.com/stars/e-caste/lists/university-projects">👉 Check out my university projects here 👈</a>
-  </h3>
+  <table>
+    <tr>
+      <th><h3>My university projects</h3></th>
+      <th><h3>Team projects I've contributed to</h3></th>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/stars/e-caste/lists/university-projects">
+          <div><img src="https://raw.githubusercontent.com/e-caste/e-caste/master/images/logo_polito.svg" /></div>
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/stars/e-caste/lists/weee-open-projects">
+          <div><img src="https://raw.githubusercontent.com/e-caste/e-caste/master/images/logo_weeeopen.svg" /></div>
+        </a>
+      </td>
+    </tr>
+  </table>
   <hr />
   <h3>
     👇 Scroll down for everything else 👇
