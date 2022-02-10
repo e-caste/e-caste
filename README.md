@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
   <table>
     <tr>
-      <th><h3>My university projects</h3></th>
-      <th><h3>Team projects I've contributed to</h3></th>
+      <th><h3>My university courses projects</h3></th>
+      <th><h3>Team projects I've launched or contributed to</h3></th>
     </tr>
     <tr>
       <td width="50%">
