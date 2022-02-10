@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="753.15546pt"
+   width="763.15546pt"
    height="139.0047pt"
-   viewBox="0 0 753.15545 139.0047"
+   viewBox="0 0 763.15545 139.0047"
    version="1.2"
    id="svg13353"
-   sodipodi:docname="logo-rettangolare-bianco.svg"
+   sodipodi:docname="logo_weeeopen.svg"
    inkscape:export-filename="/home/tommaso/Desktop/disat3.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata13357">
     <rdf:RDF>
@@ -25,8 +25,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,19 +37,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
      id="namedview13355"
      showgrid="false"
      inkscape:zoom="0.90509668"
-     inkscape:cx="261.59063"
-     inkscape:cy="162.55899"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g9169"
+     inkscape:cx="380.06989"
+     inkscape:cy="176.22427"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13353"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     width="763.15546pt" />
   <defs
      id="defs6784">
     <clipPath
@@ -15628,6 +15629,42 @@
          id="path9173"
          d="M 0,1080 H 1920 V 0 H 0 Z" />
     </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter6800"
+       x="-0.011821102"
+       y="-0.052939347"
+       width="1.0273432"
+       height="1.1191135">
+      <feFlood
+         flood-opacity="0.572549"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6790" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6792" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.5"
+         result="blur"
+         id="feGaussianBlur6794" />
+      <feOffset
+         dx="2.6"
+         dy="-1.2"
+         result="offset"
+         id="feOffset6796" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6798" />
+    </filter>
   </defs>
   <g
      id="surface1037"
@@ -15637,7 +15674,8 @@
        inkscape:label="logo"
        id="g9167">
       <g
-         id="g9169">
+         id="g9169"
+         style="filter:url(#filter6800)">
         <g
            clip-path="url(#clipPath9175)"
            id="g9171">
@@ -15683,7 +15721,7 @@
             <path
                inkscape:connector-curvature="0"
                id="path9195"
-               style="fill:none;stroke:#fefefe;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+               style="fill:none;fill-opacity:1;stroke:#fefefe;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                d="m 0,0 -20.862,-45.816 -25.326,73.915 -25.468,-73.915 -31.802,91.632" />
           </g>
           <g
